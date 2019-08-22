@@ -1,4 +1,4 @@
-v0.0.1
+v0.0.1 - CNAME and Avatar
 
 # jekyll-theme-EasyBook
 
