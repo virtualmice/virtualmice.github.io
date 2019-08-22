@@ -1,3 +1,5 @@
+v0.0.1 - CNAME and Avatar
+
 # jekyll-theme-EasyBook
 
 Another Jekyll Blog Theme "EasyBook"
